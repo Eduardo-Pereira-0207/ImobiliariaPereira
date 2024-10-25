@@ -1,7 +1,7 @@
-#Sistema de Gestão Imobiliária - Pereira | imóveis®
+### Sistema de Gestão Imobiliária - Pereira | imóveis®
 
 ## Status do Projeto
-Em desenvolvimento
+- Em desenvolvimento
 
 ## Tecnologias Utilizadas
 - Java (backend)
@@ -16,7 +16,7 @@ Em desenvolvimento
 ## Objetivo do Software
 O sistema tem como objetivo auxiliar a **Imobiliária Pereira** na organização e controle de suas atividades. Ele será desenvolvido para ser uma solução completa que abrange desde o cadastro de imóveis e clientes até o gerenciamento de vendas e locações.
 
-### Funcionalidades do sistema: - 
+### Funcionalidades do sistema:
 **Requisitos Não Funcionais:** 
 - [RF001] Cadastro dos imóveis:No sistema informa, endereço completo, informações do imóvel, fotos, vídeos, disponibilidade de aluguel e/ou venda, valor do aluguel e/ou venda.
 - [RF002] Cadastro de proprietários: Informa dados, CPF, nome, endereço residencial, data de nascimento, Email, telefone de contato, código e dados do imóvel que serão vendidos e/ou alugados, etc.
@@ -27,5 +27,5 @@ O sistema tem como objetivo auxiliar a **Imobiliária Pereira** na organização
 - [RF007] Cadastrar forma de pagamento: Cartão de crédito, Pix, Boleto e Dinheiro.
 
 **Requisitos Não Funcionais:**
-[RNF001] Sistema desktop: Usando a rede interna da imobiliária e efetuando backup na nuvem
-[RNF002] Segurança: Apenas pessoas autorizadas terão acesso ao sistema com autenticação e grupos de usuários.
+- [RNF001] Sistema desktop: Usando a rede interna da imobiliária e efetuando backup na nuvem
+- [RNF002] Segurança: Apenas pessoas autorizadas terão acesso ao sistema com autenticação e grupos de usuários.
